@@ -18,7 +18,7 @@ const About = () => {
                     <p className="about__description">I'm an Application Developer having some fine knowledge in languages like Dart, Kotlin, Java and C#. Apart from that I'm into Flutter and React Native!</p>
 
                     <a download="" href={CV} className="button button--flex">
-                        DownLoad CV
+                        DownLoad CV&nbsp;
                         <svg
                 class="button__icon"
                 xmlns="http://www.w3.org/2000/svg"
