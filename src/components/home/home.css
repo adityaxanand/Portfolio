@@ -7,6 +7,9 @@
     padding-top: 5.5rem;
     column-gap: 2rem;
     align-items: center;
+    /* This I changed because spacing was not there */
+    padding-left: 1rem;  /* Add left padding */
+    padding-right: 1rem;
 }
 
 .home__social {
@@ -16,6 +19,7 @@
     /* This I changed because spacing was not there */
     padding-left: 1rem;  /* Add left padding */
     padding-right: 1rem;
+
 }
 
 .home__social-icon {
