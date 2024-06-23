@@ -1,7 +1,5 @@
 .home__container {
     row-gap: 7rem;
-    padding-left: 1rem;  /* Add left padding */
-    padding-right: 1rem;
 }
 
 .home__content {
