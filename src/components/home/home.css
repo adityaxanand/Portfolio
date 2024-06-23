@@ -32,6 +32,12 @@
 .home__title {
     font-size: var(--big-font-size);
     margin-bottom: var(--mb-0-25);
+    padding-left: 1rem;  /* Add left padding */
+    padding-right: 1rem; /* Add right padding */
+    /* Alternatively, you can use margin if preferred */
+    margin-left: 1rem;
+    margin-right: 1rem;
+    
 }
 
 .home__hand {
