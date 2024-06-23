@@ -7,11 +7,6 @@
     padding-top: 5.5rem;
     column-gap: 2rem;
     align-items: center;
-    padding-left: 1rem;  /* Add left padding */
-    padding-right: 1rem; /* Add right padding */
-    /* Alternatively, you can use margin if preferred */
-    margin-left: 1rem;
-    margin-right: 1rem;
 }
 
 .home__social {
