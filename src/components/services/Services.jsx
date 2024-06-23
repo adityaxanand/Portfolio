@@ -121,7 +121,7 @@ const Services = () => {
                             <ul className="services__modal-services grid">
                                 <li className="services__modal-service">
                                     <i className="uil uil-check-circle services__modal-icon"></i>
-                                    <p className="services__modal-info">I develop the user interface.</p>
+                                    <p className="services__modal-info"> <i className="uil uil-check-circle services__modal-icon"></i> I develop the user interface.</p>
                                 </li>
 
                                 <li className="services__modal-service">
