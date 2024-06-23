@@ -13,6 +13,9 @@
     display: grid;
     grid-template-columns: max-content;
     row-gap: 1rem;
+    /* This I changed because spacing was not there */
+    padding-left: 1rem;  /* Add left padding */
+    padding-right: 1rem;
 }
 
 .home__social-icon {
